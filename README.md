@@ -9,4 +9,4 @@ And for a model I used:
 
 To properly work this calculator, all you have to do is press any numbers combined with the operands and you get your result!
 
-I used basic arthimetic in my JavaScript, throwing an error if an incorrect calculation occured. I plan on adding more feature like handling negative number, other operations, and the choice to clear one number at a time.
+I used basic arthimetic in my JavaScript, throwing an error if an incorrect calculation occured. I plan on adding more feature like handling negative number, other operations, and the choice to clear one number at a time. I also want to fix the functionality on some of the buttons so they can work and display with whatever screen size.
